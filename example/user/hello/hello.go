@@ -1,9 +1,9 @@
 package main
 
 import (
-    "example/user/hello/morestrings"
+    "example/user/hello/creation"
 )
 
 func main() {
-    morestrings.Create()
+    creation.Create()
 }
